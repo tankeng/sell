@@ -19,7 +19,7 @@ botStart = time.time()
 #==============================================================================#
 #line = LINE()
 #line = LINE("Email","Passwd")
-line = LINE("Pimwipha25@gmail.com","Mazda4829")
+line = LINE("nanthkantnaytib419@gmail.com","nam020738")
 line.log("Auth Token : " + str(line.authToken))
 line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
